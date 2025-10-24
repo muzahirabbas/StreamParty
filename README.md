@@ -1,6 +1,3 @@
-Here is an elegant and comprehensive `README.md` file for your "StreamParty" project, written to your specifications.
-
------
 
 # StreamParty 🚀
 

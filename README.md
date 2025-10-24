@@ -3,7 +3,12 @@
 
 A modern, self-hostable, peer-to-peer streaming platform. Share your screen and chat with guests in real-time, all powered by WebRTC and a lightweight Cloudflare Worker backend.
 
-*(Add a screenshot or GIF of your app here\!)*
+<div align="center">
+
+[![AI Career Copilot Demo Video](https://img.youtube.com/vi/pcbiuGlLgg8/0.jpg)](https://www.youtube.com/watch?v=pcbiuGlLgg8)
+
+*(Click the image above to watch the demo tutorial)*
+</div>
 
 -----
 

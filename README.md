@@ -5,7 +5,7 @@ A modern, self-hostable, peer-to-peer streaming platform. Share your screen and 
 
 <div align="center">
 
-[![AI Career Copilot Demo Video](https://img.youtube.com/vi/pcbiuGlLgg8/0.jpg)](https://www.youtube.com/watch?v=pcbiuGlLgg8)
+[![StreamParty Demo](https://img.youtube.com/vi/EKNL_f0QXCY/0.jpg)](https://www.youtube.com/watch?v=EKNL_f0QXCY)
 
 *(Click the image above to watch the demo tutorial)*
 </div>

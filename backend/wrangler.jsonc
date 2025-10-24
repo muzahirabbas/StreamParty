@@ -1,0 +1,27 @@
+// File: wrangler.jsonc
+{
+  "name": "peerstream-mvp",
+  "main": "src/index.js",
+  "compatibility_date": "2023-10-30",
+
+  // Configure the Durable Object namespace
+  "durable_objects": {
+    "bindings": [
+      {
+        "name": "ROOMS",
+        "class_name": "PeerStreamRoom"
+      }
+    ]
+  },
+
+  // Add a migration for the new Durable Object class
+  "migrations": [
+    {
+      "tag": "v1",
+      // Use "new_sqlite_classes" as required by the free plan
+      "new_sqlite_classes": [
+        "PeerStreamRoom"
+      ]
+    }
+  ]
+}

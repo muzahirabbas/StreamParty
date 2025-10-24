@@ -1,0 +1,14 @@
+{
+  "name": "peerstream-mvp-worker",
+  "version": "1.0.0",
+  "description": "PeerStream MVP - Signaling Worker",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.45.0"
+  }
+}

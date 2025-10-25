@@ -10,7 +10,7 @@ A modern, self-hostable, peer-to-peer streaming platform. Share your screen and 
 *(Click the image above to watch the demo tutorial)*
 </div>
 
------
+----
 
 ## ✨ Features
 
